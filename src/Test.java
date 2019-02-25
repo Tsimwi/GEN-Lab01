@@ -3,4 +3,5 @@ public class Test {
     public int test;
     public int test2;
     public int t3;
+    public int t4;
 }
