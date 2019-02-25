@@ -1,0 +1,5 @@
+public class Test {
+    public double te1;
+    public int test;
+    public int test2;
+}
